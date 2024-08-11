@@ -3,21 +3,24 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=xdong99&label=Profile%20views&color=0e75b6&style=flat" alt="xdong99" /> </p>
 
-<div style="display: inline-block; vertical-align: top; width: 55%;">
-  <ul>
-    <li>💻 I am interested in <strong>applied mathematics + AI for science</strong>. Currently working on <strong>generative models, neural operators, and uncertainty quantification for stochastic multiscale modeling.</strong></li>
-    <li>📚 My publications: <a href="https://scholar.google.com/citations?user=xttYlC4AAAAJ&hl=en"><strong style="color: blue;">Google Scholar</strong></a></li>
-    <li>📄 My website: <a href="https://xdong99.github.io"><strong style="color: blue;">xdong99.github.io</strong></a></li>
-    <li>📫 Reach me: <a href="mailto:xdong94@wisc.edu"><strong style="color: blue;">xdong94@wisc.edu</strong></a></li>
-    <li>⚡ Fun fact: <strong>I am a photographer and a certified Getty Images contributor. I am a pro gamer for Hearthstone.</strong></li>
-  </ul>
-</div>
-<div style="display: inline-block; vertical-align: top; width: 40%; text-align: center;">
-  <img src="Assets/shiprock.jpg" alt="Description" width="400" />
-  <br />
-  <em>Shiprock, NM. Captured by me.</em>
-</div>
-
+<table style="border: none;">
+  <tr style="border: none;">
+    <td style="border: none; width: 50%; vertical-align: top;">
+      <ul>
+        <li>💻 I am interested in <strong>applied mathematics + AI for science</strong>. Currently working on <strong>generative models, neural operators, and uncertainty quantification for stochastic multiscale modeling.</strong></li>
+        <li>📚 My publications: <a href="https://scholar.google.com/citations?user=xttYlC4AAAAJ&hl=en"><strong>Google Scholar</strong></a></li>
+        <li>📄 My website: <a href="https://xdong99.github.io"><strong>xdong99.github.io</strong></a></li>
+        <li>📫 Reach me: <a href="mailto:xdong94@wisc.edu"><strong>xdong94@wisc.edu</strong></a></li>
+        <li>⚡ Fun fact: <strong>I am a photographer and a certified Getty Images contributor. I am a pro gamer for Hearthstone.</strong></li>   
+      </ul>
+    </td>
+    <td style="border: none; width: 50%; text-align: center; vertical-align: top;">
+      <img src="Assets/shiprock.jpg" alt="Shiprock, NM" width="500" />
+      <br />
+      <em>Shiprock, NM. Captured by me.</em>
+    </td>
+  </tr>
+</table>
 <h3 align="left">Recent News:</h3>
 <ul>
   <li>08/11/2024<br />
