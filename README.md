@@ -3,15 +3,15 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=xdong99&label=Profile%20views&color=0e75b6&style=flat" alt="xdong99" /> </p>
 
-- 🔭 I’m currently working on [Data-Driven Stochastic Closure Modeling via Conditional Diffusion Model and Neural Operator](https://github.com/xdong99/SGDFNO_Closure)
+- 🔭 I’m currently working on: [Data-Driven Stochastic Closure Modeling via Conditional Diffusion Model and Neural Operator](https://github.com/xdong99/SGDFNO_Closure)
 
-- 📝 I regularly write articles on [https://xdong99.github.io/blog/](https://xdong99.github.io/blog/)
+- 📝 I regularly write articles on: [https://xdong99.github.io/blog/](https://xdong99.github.io/blog/)
 
-- 📫 How to reach me **xdong94@wisc.edu**
+- 📫 How to reach me: **xdong94@wisc.edu**
 
-- 📄 Know about my experiences [https://xdong99.github.io/cv/](https://xdong99.github.io/cv/)
+- 📄 Know about my experiences: [https://xdong99.github.io/cv/](https://xdong99.github.io/cv/)
 
-- ⚡ Fun fact **I am a photographer and a certified Getty Images contributor. I am pro gamer for Hearthstone.**
+- ⚡ Fun fact: **I am a photographer and a certified Getty Images contributor. I am pro gamer for Hearthstone.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
