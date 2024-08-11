@@ -11,7 +11,7 @@
 
 - 📄 Know about my experiences: [https://xdong99.github.io/cv/](https://xdong99.github.io/cv/)
 
-- ⚡ Fun fact: **I am a photographer and a certified Getty Images contributor. I am pro gamer for Hearthstone.**
+- ⚡ Fun fact: **I am a photographer and a certified Getty Images contributor. I am a pro gamer for Hearthstone.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
